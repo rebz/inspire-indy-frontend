@@ -4,7 +4,7 @@ Original README content below.
 
 ---
 
-This is the frontend to saveourfaves.org; it pairs with [the backend code, also open source](https://github.com/mikeyk/saveourfaves-server), so please read the README there as well.
+This is the frontend to inspireindy.org; it pairs with [the backend code, also open source](https://github.com/rebz/inspire-indy-backend), so please read the README there as well.
 
 You'll need to copy over the src/Config.js.example file to src/Config.js and update it with your own Google Maps API key (needs Places API enabled) and a Google Analytics ID.
 
